@@ -15,7 +15,7 @@ The architectural modifications in my published research paper is shown below.
 ![image](https://github.com/user-attachments/assets/b372e79b-560a-46d9-b77d-1346607859a1)
 
 
-#Results and Discussions
+# Results and Discussions
 
 ![image](https://github.com/user-attachments/assets/683f8bd8-0cde-42e0-a291-62ddac38da7a)
 
