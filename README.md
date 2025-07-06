@@ -24,6 +24,6 @@ The architectural modifications in my published research paper is shown below.
 ![image](https://github.com/user-attachments/assets/4a1a0ddd-5fce-4ff7-a2bc-51630c87d80b)
 
 
-#Full article
+# Full article
 Deepak Kumar, Nagendra Singh Ranawat, Pavan Kumar Kankar, Ankur Miglani, InceptionV3 based blockage fault diagnosis of centrifugal pump, Advanced Engineering Informatics, Volume 65, Part A, 2025, 103181, ISSN 1474-0346,
 https://doi.org/10.1016/j.aei.2025.103181. (https://www.sciencedirect.com/science/article/pii/S1474034625000746)
