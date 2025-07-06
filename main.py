@@ -1,3 +1,5 @@
+# main architecture
+
 input_img = keras.Input(shape=input_shape)
 
 #Block1
