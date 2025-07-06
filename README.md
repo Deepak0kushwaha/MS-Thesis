@@ -8,11 +8,35 @@ Blockages in a centrifugal pump reduce the performance of the pump and can resul
 
 ![image](https://github.com/user-attachments/assets/e9305d49-d0f1-462e-b421-e7309dc8fe1a)
 
+# CWT
+
+The CWT is a critical signal processing tool, which is very good at capturing the different frequency components of a non-stationary signal. These wavelets are instrumental as they are localized in both the time and frequency domains.
+
+![image](https://github.com/user-attachments/assets/5acb0ffe-988b-4c68-84c1-90ae7dea254e)
+
+
+
+
 
 # Architectural Modifications
 The architectural modifications in my published research paper is shown below.
 
 ![image](https://github.com/user-attachments/assets/b372e79b-560a-46d9-b77d-1346607859a1)
+
+![image](https://github.com/user-attachments/assets/d844fc8a-6a39-4105-9450-bd40d90ad473)
+
+![image](https://github.com/user-attachments/assets/b19081ab-ee00-4fd3-82df-df40a96cc1da)
+![image](https://github.com/user-attachments/assets/f5f8388c-dd3a-4abc-bd22-5a6c2bf35713)
+![image](https://github.com/user-attachments/assets/f8afe77b-e22b-4d7c-a597-f15496de2b50)
+
+![image](https://github.com/user-attachments/assets/f1c58471-70b5-4e27-a8cf-e7cd2222e0cc)
+![image](https://github.com/user-attachments/assets/769da8a3-9e4e-4519-939c-9ddf58024566)
+![image](https://github.com/user-attachments/assets/2c616a92-253d-4cee-aa9d-03b9b9661d22)
+
+![image](https://github.com/user-attachments/assets/24cd2dc2-bf47-473c-8965-4fe12276aaf3)
+![image](https://github.com/user-attachments/assets/a49caaa5-88ce-4d31-8c7c-c25cc3ff83d9)
+![image](https://github.com/user-attachments/assets/01bb0464-da9a-44c4-baab-318a5fefa7a9)
+
 
 
 # Results and Discussions
