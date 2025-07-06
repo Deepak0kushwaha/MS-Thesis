@@ -14,15 +14,6 @@ The CWT is a critical signal processing tool, which is very good at capturing th
 
 ![image](https://github.com/user-attachments/assets/5acb0ffe-988b-4c68-84c1-90ae7dea254e)
 
-
-
-
-
-# Architectural Modifications
-The architectural modifications in my published research paper is shown below.
-
-![image](https://github.com/user-attachments/assets/b372e79b-560a-46d9-b77d-1346607859a1)
-
 ![image](https://github.com/user-attachments/assets/d844fc8a-6a39-4105-9450-bd40d90ad473)
 
 ![image](https://github.com/user-attachments/assets/b19081ab-ee00-4fd3-82df-df40a96cc1da)
@@ -36,6 +27,15 @@ The architectural modifications in my published research paper is shown below.
 ![image](https://github.com/user-attachments/assets/24cd2dc2-bf47-473c-8965-4fe12276aaf3)
 ![image](https://github.com/user-attachments/assets/a49caaa5-88ce-4d31-8c7c-c25cc3ff83d9)
 ![image](https://github.com/user-attachments/assets/01bb0464-da9a-44c4-baab-318a5fefa7a9)
+
+
+
+
+# Architectural Modifications
+The architectural modifications in my published research paper is shown below.
+
+![image](https://github.com/user-attachments/assets/b372e79b-560a-46d9-b77d-1346607859a1)
+
 
 
 
